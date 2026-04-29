@@ -20,6 +20,6 @@ test('Alfa (como Beta): multiply(2, 3) should return 6', () => {
   expect(multiply(2, 3)).toBe(6);
 });
 
-test('Gamma (como Beta): divide(10, 2) should return 5', () => {
+test('gamma (como Beta): divide(10, 2) should return 5', () => {
   expect(divide(10, 2)).toBe(5);
 });
