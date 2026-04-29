@@ -7,5 +7,5 @@ export function subtract(a, b) {
 }
 
 export function multiply(a, b) {
-  return a * b + 1; // El "+ 1" es el bug que introducís a propósito
+  return a * b;
 }
